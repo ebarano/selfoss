@@ -8,6 +8,7 @@
 /public/all.*
 user.css
 user.js
+config.ini
 node_modules
 .env
 vendor/
